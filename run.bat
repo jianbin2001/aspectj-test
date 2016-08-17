@@ -1,0 +1,1 @@
+java -cp slf4j-test-1.0.0.jar;./lib/* com.test.HelloWorld
